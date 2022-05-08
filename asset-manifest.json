@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/protfolio/static/css/main.76b198a5.css",
-    "main.js": "/protfolio/static/js/main.5d863ab8.js",
+    "main.js": "/protfolio/static/js/main.7cbc625e.js",
     "static/media/Screenshot_٢٠٢٢-٠٤-٠١-١١-٤٠-١١-1.png": "/protfolio/static/media/Screenshot_٢٠٢٢-٠٤-٠١-١١-٤٠-١١-1.056f1576d2fb69558969.png",
     "static/media/Free-CV-template-86.pdf": "/protfolio/static/media/Free-CV-template-86.e58293df7c04acec30fe.pdf",
     "static/media/Reminijpg": "/protfolio/static/media/Remini202108041441113083.b902b3e95a890823c80c.jpg",
     "index.html": "/protfolio/index.html",
     "main.76b198a5.css.map": "/protfolio/static/css/main.76b198a5.css.map",
-    "main.5d863ab8.js.map": "/protfolio/static/js/main.5d863ab8.js.map"
+    "main.7cbc625e.js.map": "/protfolio/static/js/main.7cbc625e.js.map"
   },
   "entrypoints": [
     "static/css/main.76b198a5.css",
-    "static/js/main.5d863ab8.js"
+    "static/js/main.7cbc625e.js"
   ]
 }
