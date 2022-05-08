@@ -1,0 +1,22 @@
+@media screen and (max-width: 1024px) {
+  .portfolio__container{
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  };
+}
+@media screen and (max-width: 600px) {
+  section {
+    margin-top: 8rem;
+    height: 120vh;
+  }
+  .portfolio__container{
+    margin-bottom: 30rem;
+  }
+  .portfolio__container{
+    
+    grid-template-columns: 1fr;
+
+    gap: 1rem;
+  };
+
+}
